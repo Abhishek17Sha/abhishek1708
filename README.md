@@ -77,6 +77,6 @@
 
 ## 📫 Connect With Me
 
-LinkedIn: (Your LinkedIn URL)
+LinkedIn: https://www.linkedin.com/in/abhishek-sharma-python/
 
 Email: me.abhishek.sharma1708@gmail.com
